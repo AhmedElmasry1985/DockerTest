@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "d5vuFfgpyfOaki5JZX0BUV8yMIIsVdSgKKF0NbYo5/owBhhiRcsz/UDyks9q7W4XaTcaaw+CDSbLGw7Ak23o7Q==",
+  "dgSpecHash": "qdnLMpAe1ef/TSNGFhdw7EhmJxD7owGmPprEx/ZYMXgFtg3/Ylnn3lbztyn9xCW3tkm/8fmHMTDv6bh1A7372A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ahmed\\RiderProjects\\DockerTest\\SenderApp\\SenderApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\gitDemos\\DockerTest\\SenderApp\\SenderApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmed\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
   "logs": []
 }

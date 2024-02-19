@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "MOHMKHp0j+k1b4+25DeVGpxG3LwbSrzmngrcvdErxvfgRdy9HLHbMhmTC6YdfmvYnBwNH8zjYyRlBtY4S+quHg==",
+  "dgSpecHash": "XGZAZ8MqtS2/CBw0PHDM8u3tLH3N5aTwd667x08CKxGD7Mrnma1xlRNFHdY+yad+vVVs3fW89qc8K91t5mdEJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ahmed\\RiderProjects\\DockerTest\\ReceiverApp\\ReceiverApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\gitDemos\\DockerTest\\ReceiverApp\\ReceiverApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmed\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
   "logs": []
 }
