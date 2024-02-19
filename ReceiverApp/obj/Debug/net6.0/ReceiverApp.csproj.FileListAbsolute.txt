@@ -1,0 +1,14 @@
+C:\Users\Ahmed\RiderProjects\DockerTest\ReceiverApp\bin\Debug\net6.0\ReceiverApp.exe
+C:\Users\Ahmed\RiderProjects\DockerTest\ReceiverApp\bin\Debug\net6.0\ReceiverApp.deps.json
+C:\Users\Ahmed\RiderProjects\DockerTest\ReceiverApp\bin\Debug\net6.0\ReceiverApp.runtimeconfig.json
+C:\Users\Ahmed\RiderProjects\DockerTest\ReceiverApp\bin\Debug\net6.0\ReceiverApp.dll
+C:\Users\Ahmed\RiderProjects\DockerTest\ReceiverApp\bin\Debug\net6.0\ReceiverApp.pdb
+C:\Users\Ahmed\RiderProjects\DockerTest\ReceiverApp\obj\Debug\net6.0\ReceiverApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\RiderProjects\DockerTest\ReceiverApp\obj\Debug\net6.0\ReceiverApp.AssemblyInfoInputs.cache
+C:\Users\Ahmed\RiderProjects\DockerTest\ReceiverApp\obj\Debug\net6.0\ReceiverApp.AssemblyInfo.cs
+C:\Users\Ahmed\RiderProjects\DockerTest\ReceiverApp\obj\Debug\net6.0\ReceiverApp.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\RiderProjects\DockerTest\ReceiverApp\obj\Debug\net6.0\ReceiverApp.dll
+C:\Users\Ahmed\RiderProjects\DockerTest\ReceiverApp\obj\Debug\net6.0\refint\ReceiverApp.dll
+C:\Users\Ahmed\RiderProjects\DockerTest\ReceiverApp\obj\Debug\net6.0\ReceiverApp.pdb
+C:\Users\Ahmed\RiderProjects\DockerTest\ReceiverApp\obj\Debug\net6.0\ReceiverApp.genruntimeconfig.cache
+C:\Users\Ahmed\RiderProjects\DockerTest\ReceiverApp\obj\Debug\net6.0\ref\ReceiverApp.dll
